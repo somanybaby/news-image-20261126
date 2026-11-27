@@ -1,6 +1,6 @@
 [![make.fun · news-image-20261126](https://make.fun/badge/news-image-20261126.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
-[![rank](https://make.fun/badge/news-image-20261126/somanybaby/makefun-news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
-[![reward](https://make.fun/badge/news-image-20261126/somanybaby/makefun-news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![rank](https://make.fun/badge/news-image-20261126/somanybaby/news-image-20261126/rank.svg)](https://make.fun/bounty/news-image-20261126/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
+[![reward](https://make.fun/badge/news-image-20261126/somanybaby/news-image-20261126/reward.svg)](https://make.fun/bounty/news-image-20261126?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261126)
 
 # news-image-20261126 entry
 
@@ -36,5 +36,5 @@ produce byte-for-byte identical files.
 ## Output
 
 - Format: PNG, 1024x1024, 8-bit RGB
-- Size: 19144 bytes
-- sha256: c06f3521c640a2b20e8da9416a7a387cc093c6ffde0235507c8599d1fdeda9fc
+- Size: 19266 bytes
+- sha256: 747bb7cfc40aaccca3d037098a70360a81deb1c711a5bba46798e0c7fb7f5baa
